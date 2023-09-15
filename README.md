@@ -1,6 +1,8 @@
-# IntroductionToCybersecurity
+# Introduction to Cybersecurity
 Teoria sobre o campo em rápido crescimento da segurança cibernética e como proteger dados e informações contra ataques digitais.
 
+<hr/>
+<hr/>
 <hr/>
 
 ## O que é cibersegurança?
@@ -50,3 +52,27 @@ Um modelo básico e abrangente para a segurança cibernética, particularmente n
 A cibersegurança é um campo complexo e em constante evolução.
 
 É importante entender os princípios básicos da cibersegurança para proteger seus dados e sistemas.
+
+<hr/>
+<hr/>
+<hr/>
+
+## O setor de segurança cibernética
+
+### Resumo
+
+A segurança cibernética está se tornando um campo mais amplo à medida que mais indústrias migram para a Internet. Existem muitos domínios diferentes de segurança cibernética, incluindo:
+
+* **Engenharia de segurança:** Implementação técnica de segurança, como segurança da informação, segurança de rede, segurança de aplicativos, segurança na nuvem, criptografia e segurança de infraestruturas críticas.
+* **Governança e conformidade:** Compreensão de leis e regulamentos de segurança, bem como garantir que uma organização cumpra essas leis e regulamentos.
+* **Gestão de riscos e inteligência de ameaças:** Identificação, avaliação e gerenciamento de riscos de segurança cibernética.
+* **Operações de segurança:** Implementação de princípios de segurança, monitoramento de incidentes e recuperação de desastres.
+* **Educação:** Ensinar as melhores práticas de segurança cibernética a usuários e funcionários.
+
+### Sobreposição
+
+Existe sobreposição entre diferentes domínios de segurança cibernética. Por exemplo, um profissional de segurança cibernética pode ter experiência em engenharia de segurança e gestão de riscos.
+
+### Conclusão
+
+Há um amplo conjunto de funções de segurança cibernética que variam em conhecimento técnico e treinamento necessário. Há papéis que se cruzam com a engenharia, papéis que se cruzam com a educação e papéis que se cruzam com administração e gestão.
